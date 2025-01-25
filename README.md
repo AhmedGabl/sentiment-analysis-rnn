@@ -1,5 +1,6 @@
 # Sentiment Analysis using RNN
 
+streamlit :https://sentiment-analysis-imdb-rnn.streamlit.app/
 ## Overview
 This project implements a text classification model for sentiment analysis using Recurrent Neural Networks (RNNs). The dataset used is the IMDb movie reviews dataset, with reviews labeled as either positive or negative. Multiple RNN architectures (Vanilla RNN, LSTM, Bi-directional LSTM, GRU) are explored, leveraging pre-trained GloVe embeddings.
 
