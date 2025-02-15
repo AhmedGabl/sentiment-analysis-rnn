@@ -116,7 +116,7 @@ if st.button("Predict Sentiment"):
                 <p><strong>Confidence:</strong> {confidence:.2f}</p>
             </div>
         """, unsafe_allow_html=True)
-    else:
+    else:   
         st.warning("⚠️ Please enter a valid review!")
 
 # Footer
